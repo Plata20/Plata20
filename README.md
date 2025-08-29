@@ -1,4 +1,4 @@
-## <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ec3a8985-487d-4bc8-9448-322799372b45" />
+## <img width="5" height="5" alt="image" src="https://github.com/user-attachments/assets/ec3a8985-487d-4bc8-9448-322799372b45" />
  Hola, mi nombre es Abraham Plata 👋
 
 <!--
