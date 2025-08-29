@@ -1,7 +1,11 @@
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/c74f0f65-710a-4068-b072-7796c1923402" /> Hola, mi nombre es Abraham Plata 👋
-Administrador de Sistemas informaticos en Red <br>
+<p>Administrador de Sistemas informaticos en Red</p> <br>
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/5f6562a4-f952-4be0-8844-637a63def523" />
-
+<br>
+<p>Actualmente estudio administrador de sistemas informaticos en red cursando el segundo y ultimo año, y también estoy estudiando por mi cuenta programación.<br>
+Desde 2016 trabaje de Administrador, coordinador y técnico en la fibra óptica en compañias como vodafone, masmovil o orange desde la empresa de circet españa, pero siempre me ha interesado lo que estudio ahora y el desarrollo web o de apliacaciones.<br>
+En mi github voy a subir todo lo que vaya haciendo sobre mis estudios y proyectos de cualquier modulo o tipo de lenguaje, espero que si alguien encuentra información útil aquí pueda informarme a traves de mi correo que está en mi bio.<br>
+Tengo un canal de youtube, que siempre que pueda subire tutoriales a modo de enseñar lo que se, espero que os guste si lo veis, un saludo.</p>
 
 
 <!--
