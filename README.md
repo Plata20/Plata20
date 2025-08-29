@@ -1,5 +1,5 @@
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/ec3a8985-487d-4bc8-9448-322799372b45" /> Hola, mi nombre es Abraham Plata 👋
-Administrador de Sistemas informaticos en Red
+Administrador de Sistemas informaticos en Red <br>
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/a2a1faf8-c1f4-4ca6-a6bb-4efd4bd60527" />
 
 
