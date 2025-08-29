@@ -1,4 +1,5 @@
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/ec3a8985-487d-4bc8-9448-322799372b45" /> Hola, mi nombre es Abraham Plata 👋
+Administrador de Sistemas en Red
 
 <!--
 **Plata20/Plata20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
