@@ -1,5 +1,4 @@
-## <img width="5" height="5" alt="image" src="https://github.com/user-attachments/assets/ec3a8985-487d-4bc8-9448-322799372b45" />
- Hola, mi nombre es Abraham Plata 👋
+## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ec3a8985-487d-4bc8-9448-322799372b45" /> Hola, mi nombre es Abraham Plata 👋
 
 <!--
 **Plata20/Plata20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
