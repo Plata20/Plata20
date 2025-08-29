@@ -1,6 +1,7 @@
-## <img width="25" height="25" alt="image" /> Hola, mi nombre es Abraham Plata 👋
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/c74f0f65-710a-4068-b072-7796c1923402" /> Hola, mi nombre es Abraham Plata 👋
 Administrador de Sistemas informaticos en Red <br>
-<img width="500" height="300" alt="image" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/5f6562a4-f952-4be0-8844-637a63def523" />
+
 
 
 <!--
