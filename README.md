@@ -1,6 +1,6 @@
-## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/c74f0f65-710a-4068-b072-7796c1923402" /> Hola, mi nombre es Abraham Plata 👋
+## <img src="Media/codigo.png" alt="Icono" width="25" height="25"> Hola, mi nombre es Abraham Plata 👋
 <p>Administrador de Sistemas informaticos en Red</p> <br>
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/5f6562a4-f952-4be0-8844-637a63def523" />
+<img width="500" height="300" alt="banner" src="Media/bannergit.png" />
 <br>
 <p>Actualmente estudio administrador de sistemas informaticos en red cursando el segundo y ultimo año, y también estoy estudiando por mi cuenta programación.<br>
 Desde 2016 trabaje de Administrador, coordinador y técnico en la fibra óptica en compañias como vodafone, masmovil o orange desde la empresa de circet españa, pero siempre me ha interesado lo que estudio ahora y el desarrollo web o de apliacaciones.<br>
