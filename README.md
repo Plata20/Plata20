@@ -6,6 +6,7 @@
 Desde 2016 trabaje de Administrador, coordinador y técnico en la fibra óptica en compañias como vodafone, masmovil o orange desde la empresa de circet españa, pero siempre me ha interesado lo que estudio ahora y el desarrollo web o de apliacaciones.<br>
 En mi github voy a subir todo lo que vaya haciendo sobre mis estudios y proyectos de cualquier modulo o tipo de lenguaje, espero que si alguien encuentra información útil aquí pueda informarme a traves de mi correo que está en mi bio.<br>
 Tengo un canal de youtube, que siempre que pueda subire tutoriales a modo de enseñar lo que se, espero que os guste si lo veis, un saludo.</p>
+<hr>
 
 
 <!--
