@@ -1,5 +1,6 @@
 ## <img src="Media/codigo.png" alt="Icono" width="25" height="25"> Hola, mi nombre es Abraham Plata 👋
 <p>Administrador de Sistemas informaticos en Red</p> <br>
+[![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
 <img width="700" height="300" alt="banner" src="Media/bannergit.png" />
 <br>
 <p>Actualmente estudio administrador de sistemas informaticos en red cursando el segundo y ultimo año, y también estoy estudiando por mi cuenta programación.<br>
