@@ -1,6 +1,6 @@
 ## <img src="Media/codigo.png" alt="Icono" width="25" height="25"> Hola, mi nombre es Abraham Plata 👋
 <p>Administrador de Sistemas informaticos en Red</p> <br>
-<img width="500" height="300" alt="banner" src="Media/bannergit.png" />
+<img width="1000" height="300" alt="banner" src="Media/bannergit.png" />
 <br>
 <p>Actualmente estudio administrador de sistemas informaticos en red cursando el segundo y ultimo año, y también estoy estudiando por mi cuenta programación.<br>
 Desde 2016 trabaje de Administrador, coordinador y técnico en la fibra óptica en compañias como vodafone, masmovil o orange desde la empresa de circet españa, pero siempre me ha interesado lo que estudio ahora y el desarrollo web o de apliacaciones.<br>
